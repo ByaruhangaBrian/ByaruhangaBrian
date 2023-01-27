@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byaruhangabrian&label=Profile%20views&color=0e75b6&style=flat" alt="byaruhangabrian" /> </p>
 
-- 🔭 I’m currently working on [Data Analysis on World Cup 2022 Data](https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset)
+- 🔭 I’m currently working on [Sustainable Development Goals (SDGs) Tracker for Uganda](https://sdg-uganda.github.io/site/)
 
 - 🌱 I’m currently learning **Data Science, Data Analysis**
 
