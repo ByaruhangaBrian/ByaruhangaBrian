@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, Data Analysis**
 
-- 👯 I’m looking to collaborate on **Open Data Projects**
+- 👯 I’m looking to collaborate on **Humanintarian Data Projects**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ByaruhangaBrian)
 
